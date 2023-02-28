@@ -1,0 +1,8 @@
+<meta>
+    <info author = '么Revoltz#3565' version = '1.0.0' name = '' description = '' type = 'script' />
+    
+    <script src = 'src/utils/utils.lua' type = 'shared' />
+
+    <script src = 'src/core/listener.lua' type = 'client' cache = 'false' />
+    <script src = 'src/core/main.lua' type = 'client' cache = 'false' />
+</meta>
