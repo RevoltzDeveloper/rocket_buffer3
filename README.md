@@ -1,11 +1,11 @@
-# 🏆 Simple Bank System
+# 🏆Simple Bank System
 Um simples sistema de banco
 
 # Player Route
 - Jogador cria a conta no banco.
 - Jogador entra na conta no banco.
 
-# Task List
+# ✅Task List
 - [x] Criar a array dos usuários.
 - [x] Função de criar conta.
 - [x] Função de logar conta.
