@@ -11,7 +11,6 @@ Um simples sistema de banco
 - [x] Função de logar conta.
 - [x] Função de verificar se o usuário existe na database.
 - [x] Função de verificar se a senha está correta.
-- [x] Função de deletar a conta.
 - [x] Função de deslogar a conta.
 - [x] Função de ver quantos usuários existe.
 
