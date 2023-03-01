@@ -20,6 +20,6 @@ Um simples sistema de banco
 2. Senha
 3. Email
 
-### Stacks
+### 📊 Stacks
 > Lua,
 > Eventos.
