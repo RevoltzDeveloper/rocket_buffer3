@@ -14,6 +14,12 @@ Um simples sistema de banco
 - [x] Função de deslogar a conta.
 - [x] Função de ver quantos usuários existe.
 
+### ⚙️ Comandos
+`bank_create user password email`
+`bank_login user password`
+`bank_logout`
+`bank_users`
+
 ### 📡 Save Data Bank
 1. Usuário
 2. Senha
